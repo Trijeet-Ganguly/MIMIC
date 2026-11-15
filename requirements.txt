@@ -1,0 +1,8 @@
+numpy
+# simulation only needs numpy. For the real camera / arm / extras:
+opencv-contrib-python>=4.7
+mediapipe
+pyserial
+matplotlib      # optional, for --plot
+anthropic       # optional, for llm_intent.py
+pytest          # optional, for tests
